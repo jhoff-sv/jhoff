@@ -8,11 +8,6 @@
     </a>
 </div>
 
-<h2>Github Stats</h2>
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jhoff-sv&show_icons=true&theme=dark&include_all_commits=true&count_private=true)](https://github.com/jhoff)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jhoff-sv&layout=compact&langs_count=7&theme=dark)](https://github.com/jhoff)
-
 <h2>About me</h2>
 
 ```PHP
