@@ -2,8 +2,8 @@
 <a href="https://www.linkedin.com/in/jos%C3%A9-hoff/" style="text-decoration: none">
     <img src="https://img.shields.io/badge/-Jos%C3%A9%20Hoff-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jos%C3%A9-hoff/" />
 </a>
-<a href="mailto:joseaugusto.ares@gmail.com" style="text-decoration: none">
-    <img src="https://img.shields.io/badge/-joseaugusto.ares@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joseaugusto.ares@gmail.com" />
+<a href="mailto:jhoff@studiovisual.com.br" style="text-decoration: none">
+    <img src="https://img.shields.io/badge/-jhoff@studiovisual.com.br-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joseaugusto.ares@gmail.com" />
 </a>
 
 <h2>About me</h2>
