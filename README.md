@@ -1,10 +1,17 @@
 <h2>👋 Hi there</h2>
-<a href="https://www.linkedin.com/in/jos%C3%A9-hoff/" style="text-decoration: none">
-    <img src="https://img.shields.io/badge/-Jos%C3%A9%20Hoff-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jos%C3%A9-hoff/" />
-</a>
-<a href="mailto:jhoff@studiovisual.com.br" style="text-decoration: none">
-    <img src="https://img.shields.io/badge/-jhoff@studiovisual.com.br-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joseaugusto.ares@gmail.com" />
-</a>
+<div>
+    <a href="https://www.linkedin.com/in/jos%C3%A9-hoff/" style="text-decoration: none">
+        <img src="https://img.shields.io/badge/-Jos%C3%A9%20Hoff-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jos%C3%A9-hoff/" />
+    </a>
+    <a href="mailto:jhoff@studiovisual.com.br" style="text-decoration: none">
+        <img src="https://img.shields.io/badge/-jhoff@studiovisual.com.br-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joseaugusto.ares@gmail.com" />
+    </a>
+</div>
+
+<h2>Github Stats</h2>
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jhoff-sv&show_icons=true&theme=dark&include_all_commits=true&count_private=true)](https://github.com/jhoff)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jhoff-sv&layout=compact&langs_count=7&theme=dark)](https://github.com/jhoff)
 
 <h2>About me</h2>
 
