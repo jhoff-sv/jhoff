@@ -53,7 +53,7 @@ class JoseHoff extends DeveloperStreetCode {
      */
     protected function setTools(): void {
         $this->tools = [
-            'code'             => ['VSCode', 'Sublime Text'],
+            'code'             => ['VSCode'],
             'containerization' => ['Docker'],
             'database'         => ['MySQL', 'SQL'],
             'design'           => ['Adobe XD', 'Figma'],
